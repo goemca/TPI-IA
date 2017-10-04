@@ -1,0 +1,7 @@
+Imagen		Parámetro1  		Parámetro2   		Parámetro3
+
+Prueba1		50					120					8
+		
+Prueba2		80					125					10
+
+Prueba3		43					200					20
